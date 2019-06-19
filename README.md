@@ -19,7 +19,7 @@ distance is (1 + 1)/2 = 1.
 </p>
 
 <p>Days Algorithm</p>
-<img src="Images/Days_Algorithm.JPG">
+<img src="Images/Days_Algorithm.JPG"/>
 
 <p>
     
@@ -28,8 +28,10 @@ There are two ways user can test this program 1) Default Tree Input 2) Manual Tr
 
 User can test the program on default Tree Input by Pressing 1 at the beginning of the run.
 ## Default Trees:
-<img src="Images/Default_tree.png">
+<img src="Images/Default_tree.png"/>
+
 Robinson Fold Distance for the above Tree is 1. 
+
 ## Manual Tree Input:
 User can test the program on default Tree Input by Pressing 0 at the beginning of the run.
 Below steps are mentioned to create above tree T1 manually. Follow Similarly to create any other tree where you want to calculate Robinson Fold’s Distance.
