@@ -39,5 +39,7 @@ Below steps are mentioned to create above tree T1 manually. Follow Similarly to 
 4.	Enter negative value if a node doesn’t have a specific child
 Below is the Input order for Tree T1. Similarly add the tree T2. 
 And check the Robinson Fold Distance. 
- 
+
+
+<img src="Images/manual_tree_input.png">
 </p>
