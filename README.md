@@ -28,7 +28,7 @@ There are two ways user can test this program 1) Default Tree Input 2) Manual Tr
 
 User can test the program on default Tree Input by Pressing 1 at the beginning of the run.
 ## Default Trees:
-<img src="Images/Default_tree.png.JPG">
+<img src="Images/Default_tree.png">
 Robinson Fold Distance for the above Tree is 1. 
 ## Manual Tree Input:
 User can test the program on default Tree Input by Pressing 0 at the beginning of the run.
